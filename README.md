@@ -117,3 +117,8 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 - Need to be a crentialed user and undergo training in order to access dataset
 - Download: https://physionet.org/content/mimic-cxr/2.0.0/<br>
 - Paper: https://arxiv.org/pdf/1901.07042.pdf
+
+### NIH Chest X-rays
+- 1,062 pneumonia images (see Table 1 in the paper)
+- Download: https://www.kaggle.com/datasets/nih-chest-xrays/data<br>
+- Paper: https://arxiv.org/abs/1705.02315
