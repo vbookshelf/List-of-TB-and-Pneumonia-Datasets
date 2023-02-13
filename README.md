@@ -50,10 +50,9 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 - Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4229306/
 
 ### VinDr-PCXR dataset
-- 15 TB images
+- 15 TB pediatric images (children under 10 years old)
 - 7,728 total images
 - Includes bounding boxes
-- All images are pediatric images (children under 10 years old)
 - Download: https://physionet.org/content/vindr-pcxr/1.0.0/<br>
 - Paper: https://www.medrxiv.org/content/10.1101/2022.03.04.22271937v1.full-text
 
@@ -109,10 +108,9 @@ The datasets that follow are multi label datasets that contain pneumonia images.
 I've listed the approx. number of pneumonia images in each.<br>
 
 ### VinDr-PCXR dataset
-- 392 pneumonia images
+- 392 pneumonia pediatric images (children under 10 years old)
 - 7,728 total images
 - Includes bounding boxes
-- All images are pediatric images (children under 10 years old)
 - Download: https://physionet.org/content/vindr-pcxr/1.0.0/<br>
 - Paper: https://www.medrxiv.org/content/10.1101/2022.03.04.22271937v1.full-text
 
