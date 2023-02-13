@@ -101,13 +101,19 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 - Includes bounding boxes
 - A modified version of this dataset was used for a Kaggle competition. 
 - No Pneumonia labels are in the competition dataset: https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detection/data
-- Need to be a crentialed user and undergo training before accessing the original dataset
+- Need to be a crentialed user and undergo training in order to access the original dataset
 - Download: https://physionet.org/content/vindr-cxr/1.0.0/<br>
 - Paper: https://www.nature.com/articles/s41597-022-01498-w
 
 ### CheXpert Dataset
-- 4576 pneumonia images (see Table 1 in the paper)
+- 4,576 pneumonia images (see Table 1 in the paper)
 - Website with dataset info: https://stanfordmlgroup.github.io/competitions/chexpert/<br>
 - Download: https://stanfordaimi.azurewebsites.net/datasets/8cbd9ed4-2eb9-4565-affc-111cf4f7ebe2<br>
 - Test set labels: https://github.com/rajpurkarlab/cheXpert-test-set-labels
 - Paper: https://arxiv.org/abs/1901.07031
+
+### MIMIC-CXR Database
+- 15,769 pneumonia images (see Table 2 in the paper)
+- Need to be a crentialed user and undergo training in order to access dataset
+- Download: https://physionet.org/content/mimic-cxr/2.0.0/<br>
+- Paper: https://arxiv.org/pdf/1901.07042.pdf
