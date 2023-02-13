@@ -55,11 +55,12 @@ In some cases the entire dataset is dedicated to one disease, in other cases the
 - Paper: https://www.nature.com/articles/s41597-022-01498-w
 
 ### Tuberculosis (TB) Chest X-ray Database
-- Contains 700 TB images sourced from other datasets
+- The dataset on Kaggle contains 700 TB images. These have been sourced from other public datasets.
+- The paper also used images sourced from the NIAID TB dataset
 - Download: https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset<br>
 - Paper: https://ieeexplore.ieee.org/document/9224622
 
-### 
+### NIAID TB dataset
 - I did not access this data.
 - There are reportedly 3500 TB images in this dataset. 
 - This dataset is mentioned here under the "Contribution" section: https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset
