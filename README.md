@@ -69,7 +69,8 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 - Paper: https://www.nature.com/articles/s41597-022-01498-w
 
 ### Tuberculosis (TB) Chest X-ray Database
-- The dataset on Kaggle contains 700 TB images. These images have been sourced from other public datasets.
+- The dataset on Kaggle contains 700 TB images. 
+- All images have been sourced from other public datasets.
 - The experiments in the paper also used images sourced from the NIAID TB dataset
 - Download: https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset<br>
 - Paper: https://ieeexplore.ieee.org/document/9224622
