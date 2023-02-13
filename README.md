@@ -44,12 +44,14 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 
 ### DA and DB datasets
 - 102 TB images
+- 303 total images
 - DA and DB images are located in the folder named "extra" inside the original TBX11K dataset
 - Download: https://www.kaggle.com/datasets/usmanshams/tbx-11<br>
 - Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4229306/
 
 ### VinDr-PCXR dataset
 - 15 TB images
+- 7,728 total images
 - Includes bounding boxes
 - All images are pediatric images (children under 10 years old)
 - Download: https://physionet.org/content/vindr-pcxr/1.0.0/<br>
@@ -57,6 +59,7 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 
 ### VinDr-CXR dataset
 - 479 TB images in the original dataset
+- 18,000 total images
 - Original dataset has TB global labels as explained here: https://vindr.ai/datasets/cxr
 - Includes bounding boxes
 - A modified version of this dataset was used for a Kaggle competition. 
