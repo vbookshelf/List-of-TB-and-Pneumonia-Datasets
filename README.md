@@ -11,7 +11,7 @@ In some cases the entire dataset is dedicated to one disease, in other cases the
 
 <br>
 
-# Tuberculosis (TB)
+# Tuberculosis (TB) Datasets
 
 ### Shenzhen and Montgomery datasets
 - 394 TB images
@@ -70,5 +70,5 @@ In some cases the entire dataset is dedicated to one disease, in other cases the
 
 <br>
 
-# Pneumonia
+# Pneumonia Datasets
 
