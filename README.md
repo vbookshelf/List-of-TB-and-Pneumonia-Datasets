@@ -127,7 +127,7 @@ I've listed the approx. number of pneumonia images in each.<br>
 
 ### NIH Chest X-rays
 - 1,062 pneumonia images (see Table 1 in the paper)
-- 108,948 total images
+- 112,1208 total images
 - Download: https://www.kaggle.com/datasets/nih-chest-xrays/data<br>
 - Paper: https://arxiv.org/abs/1705.02315
 
