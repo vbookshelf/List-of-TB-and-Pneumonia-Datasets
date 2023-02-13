@@ -26,7 +26,8 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 
 
 ### TBX11K Simplified
-- 799 TB images
+- 799 labeled TB images
+- 400 unlabeled TB test set images
 - Includes bounding boxes
 - Download: https://www.kaggle.com/datasets/vbookshelf/tbx11k-simplified<br>
 - Paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Rethinking_Computer-Aided_Tuberculosis_Diagnosis_CVPR_2020_paper.pdf
