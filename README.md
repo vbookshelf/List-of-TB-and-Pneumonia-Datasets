@@ -94,3 +94,13 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 - X-rays of children
 - Download: https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray<br>
 - Paper: https://pubmed.ncbi.nlm.nih.gov/29474911/
+
+### VinDr-CXR dataset
+- 469 Pneumonia images in the original dataset
+- Original dataset has Pneumonia global labels as explained here: https://vindr.ai/datasets/cxr
+- Includes bounding boxes
+- A modified version of this dataset was used for a Kaggle competition. 
+- No Pneumonia labels are in the competition dataset: https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detection/data
+- Need to be a crentialed user and undergo training before accessing the original dataset
+- Download: https://physionet.org/content/vindr-cxr/1.0.0/<br>
+- Paper: https://www.nature.com/articles/s41597-022-01498-w
