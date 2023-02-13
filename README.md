@@ -78,3 +78,9 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 
 # Pneumonia Datasets
 
+### Chest X-Ray Images (Pneumonia)
+- Includes x-rays of children
+- Has labels for viral and bacterial pneumonia
+- Download: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia<br>
+- Paper: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
+
