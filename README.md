@@ -133,6 +133,7 @@ I've listed the approx. number of pneumonia images in each.<br>
 
 ### Open-i Chest X-ray images
 - 40 pneumonia images (see Table 1 in this paper: https://arxiv.org/abs/1705.02315)
+- 2,435 total images
 - Download: https://openi.nlm.nih.gov/faq#collection<br>
 - Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5009925/
 
