@@ -97,6 +97,7 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 
 ### RSNA Pneumonia Detection Challenge
 - Includes bounding boxes
+- The raw images were sourced from the NIH ChestX-ray8 dataset.
 - Download from Kaggle: https://www.kaggle.com/competitions/rsna-pneumonia-detection-challenge/data<br>
 - Download from the RSNA website: https://www.rsna.org/education/ai-resources-and-training/ai-image-challenge/rsna-pneumonia-detection-challenge-2018<br>
 - Paper: https://pubs.rsna.org/doi/10.1148/ryai.2019180041
@@ -141,7 +142,7 @@ I've listed the approx. number of pneumonia images in each.<br>
 - Download: https://physionet.org/content/mimic-cxr/2.0.0/<br>
 - Paper: https://arxiv.org/pdf/1901.07042.pdf
 
-### NIH Chest X-rays
+### NIH ChestX-ray8 dataset
 - 1,062 pneumonia images (see Table 1 in the paper)
 - 112,1208 total images
 - Download: https://www.kaggle.com/datasets/nih-chest-xrays/data<br>
