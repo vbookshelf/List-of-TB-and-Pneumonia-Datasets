@@ -53,3 +53,8 @@ In some cases the entire dataset is dedicated to one disease, in other cases the
 - Need to be a crentialed user and undergo training before accessing the original dataset
 - Download: https://physionet.org/content/vindr-cxr/1.0.0/<br>
 - Paper: https://www.nature.com/articles/s41597-022-01498-w
+
+### Tuberculosis (TB) Chest X-ray Database
+- Contains 700 TB images sourced from other datasets
+- Download: https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset<br>
+- Paper: https://ieeexplore.ieee.org/document/9224622
