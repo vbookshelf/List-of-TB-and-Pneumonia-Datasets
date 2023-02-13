@@ -37,9 +37,19 @@ In some cases the entire dataset is dedicated to one disease, in other cases the
 - Download: https://www.kaggle.com/datasets/usmanshams/tbx-11<br>
 - Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4229306/
 
-## VinDr-PCXR dataset
+### VinDr-PCXR dataset
 - 15 TB images
 - Includes bounding boxes
 - All images are pediatric images (children under 10 years old)
 - Download: https://physionet.org/content/vindr-pcxr/1.0.0/<br>
 - Paper: https://www.medrxiv.org/content/10.1101/2022.03.04.22271937v1.full-text
+
+### VinDr-CXR dataset
+- 479 TB images in the original dataset
+- Original dataset has TB global labels as explained here: https://vindr.ai/datasets/cxr
+- Includes bounding boxes
+- A modified version of this dataset was used for a Kaggle competition. 
+- No TB labels are in the competition dataset: https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detection/data
+- Need to be a crentialed user and undergo training before accessing the original dataset
+- Download: https://physionet.org/content/vindr-cxr/1.0.0/<br>
+- Paper: https://www.nature.com/articles/s41597-022-01498-w
