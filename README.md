@@ -95,6 +95,10 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 - Download: https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray<br>
 - Paper: https://pubmed.ncbi.nlm.nih.gov/29474911/
 
+<br>
+The datasets that follow are large multi label datasets that contain pneumonia images.<br>
+I've listed the approx. number of pneumonia images in each.<br>
+
 ### VinDr-CXR dataset
 - 469 Pneumonia images in the original dataset
 - Original dataset has Pneumonia global labels as explained here: https://vindr.ai/datasets/cxr
