@@ -29,3 +29,16 @@ In some cases the entire dataset is dedicated to one disease, in other cases the
 - 305 TB images
 - Download: https://github.com/frapa/tbcnn<br>
 - Paper: https://www.nature.com/articles/s41598-019-42557-4
+
+### DA and DB datasets
+- 102 TB images
+- DA and DB images are located in the folder named "extra" inside the original TBX11K dataset
+- Download: https://www.kaggle.com/datasets/usmanshams/tbx-11<br>
+- Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4229306/
+
+## VinDr-PCXR dataset
+- 15 TB images
+- Includes bounding boxes
+- All images are pediatric images (children under 10 years old)
+- Download: https://physionet.org/content/vindr-pcxr/1.0.0/<br>
+- Paper: https://www.medrxiv.org/content/10.1101/2022.03.04.22271937v1.full-text
