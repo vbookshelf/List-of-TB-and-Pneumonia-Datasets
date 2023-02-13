@@ -66,3 +66,9 @@ In some cases the entire dataset is dedicated to one disease, in other cases the
 - This dataset is mentioned under the "Contribution" section here: https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset
 - A data request form needs to be submitted in order to access the data.
 - Location: https://tbportals.niaid.nih.gov/download-data
+
+
+<br>
+
+# Pneumonia
+
