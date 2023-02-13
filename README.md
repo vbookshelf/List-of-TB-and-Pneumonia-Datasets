@@ -21,6 +21,7 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 
 ### Shenzhen and Montgomery datasets
 - 394 TB images
+- 800 total images
 - Download: https://www.kaggle.com/datasets/kmader/pulmonary-chest-xray-abnormalities<br>
 - Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4256233/
 
@@ -35,7 +36,6 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 
 ### Belarus dataset
 - 305 TB images
-- 800 total images
 - Download: https://github.com/frapa/tbcnn<br>
 - Paper: https://www.nature.com/articles/s41598-019-42557-4
 
