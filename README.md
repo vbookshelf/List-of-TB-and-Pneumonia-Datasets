@@ -1,5 +1,5 @@
 # List of TB and Pneumonia Chest X-ray Datasets
-A list of publicly available Tuberculosis (TB) and Pneumonia chest x-ray image sources.
+A list of publicly available Tuberculosis (TB) and Pneumonia chest x-ray datasets.
 
 Last Updated: 13 Feb 2023
 
