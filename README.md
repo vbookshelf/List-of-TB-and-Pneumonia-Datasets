@@ -99,6 +99,14 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 The datasets that follow are large multi label datasets that contain pneumonia images.<br>
 I've listed the approx. number of pneumonia images in each.<br>
 
+### VinDr-PCXR dataset
+- 392 pneumonia images
+- 7,728 total images
+- Includes bounding boxes
+- All images are pediatric images (children under 10 years old)
+- Download: https://physionet.org/content/vindr-pcxr/1.0.0/<br>
+- Paper: https://www.medrxiv.org/content/10.1101/2022.03.04.22271937v1.full-text
+
 ### VinDr-CXR dataset
 - 469 Pneumonia images in the original dataset
 - 18,000 total images
@@ -117,6 +125,7 @@ I've listed the approx. number of pneumonia images in each.<br>
 - Download: https://stanfordaimi.azurewebsites.net/datasets/8cbd9ed4-2eb9-4565-affc-111cf4f7ebe2<br>
 - Test set labels: https://github.com/rajpurkarlab/cheXpert-test-set-labels
 - Paper: https://arxiv.org/abs/1901.07031
+
 
 ### MIMIC-CXR Database
 - 15,769 pneumonia images (see Table 2 in the paper)
