@@ -101,6 +101,7 @@ I've listed the approx. number of pneumonia images in each.<br>
 
 ### VinDr-CXR dataset
 - 469 Pneumonia images in the original dataset
+- 18,000 total images
 - Original dataset has Pneumonia global labels as explained here: https://vindr.ai/datasets/cxr
 - Includes bounding boxes
 - A modified version of this dataset was used for a Kaggle competition. 
