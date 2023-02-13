@@ -65,4 +65,4 @@ In some cases the entire dataset is dedicated to one disease, in other cases the
 - There are reportedly 3500 TB images in this dataset. 
 - This dataset is mentioned under the "Contribution" section here: https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset
 - A data request form needs to be submitted in order to access the data.
-- Download: https://tbportals.niaid.nih.gov/download-data
+- Location: https://tbportals.niaid.nih.gov/download-data
