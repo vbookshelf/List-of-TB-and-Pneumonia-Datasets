@@ -96,7 +96,7 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 - Paper: https://pubmed.ncbi.nlm.nih.gov/29474911/
 
 <br>
-The datasets that follow are large multi label datasets that contain pneumonia images.<br>
+The datasets that follow are multi label datasets that contain pneumonia images.<br>
 I've listed the approx. number of pneumonia images in each.<br>
 
 ### VinDr-PCXR dataset
