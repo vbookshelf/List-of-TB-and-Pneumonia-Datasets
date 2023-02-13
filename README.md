@@ -1,4 +1,4 @@
-# List-of-TB-and-Pneumonia-Datasets
+# List of TB and Pneumonia Datasets
 A list of publicly available Tuberculosis (TB) and Pneumonia chest x-ray image sources.
 
 [ Repo Under Construction ]
@@ -7,10 +7,10 @@ When I first worked on a TB project a few years ago there were only 394 publicly
 
 In some cases the entire dataset is dedicated to one disease, in other cases the TB or Pneumonia images are located inside other much larger datasets.
 
-TBX11K Simplified
+<br>
+
+### TBX11K Simplified
 - 799 TB images
 - Includes bounding boxes
-Download
-https://www.kaggle.com/datasets/vbookshelf/tbx11k-simplified
-Paper
-https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Rethinking_Computer-Aided_Tuberculosis_Diagnosis_CVPR_2020_paper.pdf
+- Download: https://www.kaggle.com/datasets/vbookshelf/tbx11k-simplified<br>
+- Paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Rethinking_Computer-Aided_Tuberculosis_Diagnosis_CVPR_2020_paper.pdf
