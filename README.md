@@ -123,8 +123,8 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 - Download: https://www.kaggle.com/datasets/nih-chest-xrays/data<br>
 - Paper: https://arxiv.org/abs/1705.02315
 
-### Open-i Chest X-rays
-- 40 pneumonia images (see table 1 in this paper: https://arxiv.org/abs/1705.02315)
+### Open-i Chest X-ray images
+- 40 pneumonia images (see Table 1 in this paper: https://arxiv.org/abs/1705.02315)
 - Download: https://openi.nlm.nih.gov/faq#collection<br>
 - Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5009925/
 
