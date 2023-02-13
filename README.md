@@ -101,10 +101,6 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 - Download from the RSNA website: https://www.rsna.org/education/ai-resources-and-training/ai-image-challenge/rsna-pneumonia-detection-challenge-2018<br>
 - Paper: https://pubs.rsna.org/doi/10.1148/ryai.2019180041
 
-### Pediatric Pneumonia Chest X-ray
-- X-rays of children
-- Download: https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray<br>
-- Paper: https://pubmed.ncbi.nlm.nih.gov/29474911/
 
 <br>
 The datasets that follow are multi label datasets that contain pneumonia images.<br>
