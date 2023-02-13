@@ -35,6 +35,7 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 
 ### Belarus dataset
 - 305 TB images
+- 800 total images
 - Download: https://github.com/frapa/tbcnn<br>
 - Paper: https://www.nature.com/articles/s41598-019-42557-4
 
