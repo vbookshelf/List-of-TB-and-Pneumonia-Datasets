@@ -13,17 +13,18 @@ In some cases the entire dataset is dedicated to one disease, in other cases the
 
 # Tuberculosis (TB)
 
+### Shenzhen and Montgomery datasets
+- 394 TB images
+- Download: https://www.kaggle.com/datasets/kmader/pulmonary-chest-xray-abnormalities<br>
+- Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4256233/
+
+
 ### TBX11K Simplified
 - 799 TB images
 - Includes bounding boxes
 - Download: https://www.kaggle.com/datasets/vbookshelf/tbx11k-simplified<br>
 - Paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Rethinking_Computer-Aided_Tuberculosis_Diagnosis_CVPR_2020_paper.pdf
 
-
-### Shenzhen and Montgomery datasets
-- 394 TB images
-- Download: https://www.kaggle.com/datasets/kmader/pulmonary-chest-xray-abnormalities<br>
-- Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4256233/
 
 ### Belarus dataset
 - 305 TB images
