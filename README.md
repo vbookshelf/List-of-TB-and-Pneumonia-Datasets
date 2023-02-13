@@ -13,7 +13,7 @@ Last Updated: 13 Feb 2023
 
 A few years ago when I first worked on a TB project there were only 394 publicly available TB chest x-ray images. These were part of the well know Montgomery and Shenzhen datasets. Since then the number of available images has grown, but they are not easy to find. Therefore, I've tried to list all the data sources here to make things easier for those working on ML projects. I've also included Pneumonia because my rough research has shown that TB and Pneumonia look similar on chest x-rays i.e. they appear as opacity. 
 
-The datassets are listed below. In some cases the entire dataset is dedicated to one disease. In other cases the TB or Pneumonia images are located inside other much larger datasets. The image quantities are appoximate.
+The datassets are listed below. In some cases the entire dataset is dedicated to one disease. In other cases the TB or Pneumonia images are located inside other much larger datasets. Some datasets include bounding boxes that can be used to train detection models. The image quantities are appoximate.
 
 <br>
 
