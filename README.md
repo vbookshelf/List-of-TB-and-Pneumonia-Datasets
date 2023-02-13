@@ -104,3 +104,9 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 - Need to be a crentialed user and undergo training before accessing the original dataset
 - Download: https://physionet.org/content/vindr-cxr/1.0.0/<br>
 - Paper: https://www.nature.com/articles/s41597-022-01498-w
+
+### CheXpert Dataset
+- 4576 pneumonia images (see Table 1 in the paper)
+- Website with dataset info: https://stanfordmlgroup.github.io/competitions/chexpert/<br>
+- Download: https://stanfordaimi.azurewebsites.net/datasets/8cbd9ed4-2eb9-4565-affc-111cf4f7ebe2<br>
+- Paper: https://arxiv.org/abs/1901.07031
