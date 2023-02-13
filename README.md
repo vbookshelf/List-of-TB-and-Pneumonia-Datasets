@@ -1,4 +1,4 @@
-# List of TB and Pneumonia Datasets
+# List of TB and Pneumonia X-ray Datasets
 A list of publicly available Tuberculosis (TB) and Pneumonia chest x-ray image sources.
 
 [ Repo Under Construction ]
