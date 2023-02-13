@@ -109,4 +109,5 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 - 4576 pneumonia images (see Table 1 in the paper)
 - Website with dataset info: https://stanfordmlgroup.github.io/competitions/chexpert/<br>
 - Download: https://stanfordaimi.azurewebsites.net/datasets/8cbd9ed4-2eb9-4565-affc-111cf4f7ebe2<br>
+- Test set labels: https://github.com/rajpurkarlab/cheXpert-test-set-labels
 - Paper: https://arxiv.org/abs/1901.07031
