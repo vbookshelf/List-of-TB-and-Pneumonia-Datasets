@@ -112,6 +112,7 @@ I've listed the approx. number of pneumonia images in each.<br>
 
 ### CheXpert Dataset
 - 4,576 pneumonia images (see Table 1 in the paper)
+- 224,316 total images
 - Website with dataset info: https://stanfordmlgroup.github.io/competitions/chexpert/<br>
 - Download: https://stanfordaimi.azurewebsites.net/datasets/8cbd9ed4-2eb9-4565-affc-111cf4f7ebe2<br>
 - Test set labels: https://github.com/rajpurkarlab/cheXpert-test-set-labels
@@ -119,12 +120,14 @@ I've listed the approx. number of pneumonia images in each.<br>
 
 ### MIMIC-CXR Database
 - 15,769 pneumonia images (see Table 2 in the paper)
+- 377,110 total images
 - Need to be a crentialed user and undergo training in order to access dataset
 - Download: https://physionet.org/content/mimic-cxr/2.0.0/<br>
 - Paper: https://arxiv.org/pdf/1901.07042.pdf
 
 ### NIH Chest X-rays
 - 1,062 pneumonia images (see Table 1 in the paper)
+- 108,948 total images
 - Download: https://www.kaggle.com/datasets/nih-chest-xrays/data<br>
 - Paper: https://arxiv.org/abs/1705.02315
 
