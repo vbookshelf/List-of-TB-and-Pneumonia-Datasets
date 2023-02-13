@@ -84,3 +84,9 @@ The datassets are listed below. In some cases the entire dataset is dedicated to
 - Download: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia<br>
 - Paper: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 
+### RSNA Pneumonia Detection Challenge
+- Includes bounding boxes
+- Download from Kaggle: https://www.kaggle.com/competitions/rsna-pneumonia-detection-challenge/data<br>
+- Download from the RSNA website: https://www.rsna.org/education/ai-resources-and-training/ai-image-challenge/rsna-pneumonia-detection-challenge-2018<br>
+- Paper: https://pubs.rsna.org/doi/10.1148/ryai.2019180041
+
