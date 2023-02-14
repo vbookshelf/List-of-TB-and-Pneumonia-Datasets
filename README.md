@@ -166,4 +166,28 @@ Includes links to the solution writeups and code.<br>
 Many of the winning models were pre-trained on the datasets listed above.<br>
 https://www.rsna.org/education/ai-resources-and-training/ai-image-challenge/covid-19-al-detection-challenge-2021
 
+### ChatGPT - A virtual domain specialist
+https://openai.com/blog/chatgpt/<br>
+Do you sometimes wish that you could consult with a radiologist when building your models? I'm finding that ChatGPT is the next best thing. In fact ChatGPT has passed the three-part medical exam that doctors take in order to practice medecine in the US.<br>
+
+This is the answer I got when I asked, "How do radiologists differentiate between TB and Pneumonia?"
+
+
+"""
+
+Radiologists can differentiate pneumonia from tuberculosis (TB) on chest x-rays by looking for specific characteristics in the images. Here are some of the ways they might differentiate between the two conditions:
+
+1. Location: Pneumonia typically affects one lobe of the lung, while TB can involve multiple lobes.<br>
+2. Shape: The opacities caused by pneumonia are often round or lobular, while the opacities caused by TB are often more irregular in shape.<br>
+3. Size: The opacities caused by pneumonia are typically smaller than those caused by TB.<br>
+4. Distribution: Pneumonia is more likely to affect the peripheral parts of the lung, while TB is more likely to affect the central portions of the lung.<br>
+5. Associated findings: Pneumonia can cause pleural effusion (fluid in the pleural cavity), while TB often causes small nodules or cavities.<br>
+
+Radiologists will also consider the patient's medical history, such as recent exposure to infectious agents, symptoms, and other test results, in making their diagnosis. In some cases, additional tests, such as sputum analysis or blood tests, may be needed to confirm the diagnosis and differentiate between pneumonia and TB.
+
+"""
+
+Please keep in mind that ChatGPT makes mistakes - the facts are not always correct.<br>
+It's free to use.<br>
+
 <br>
