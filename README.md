@@ -83,6 +83,14 @@ In some cases the entire dataset is dedicated to one disease. In other cases the
 - Location: https://tbportals.niaid.nih.gov/download-data
 
 
+### PadChest dataset
+- 176 TB study counts (Does "study counts" refer to the number of images or number of examinations?)
+- 160,000 total images
+- Contains radiographic reports in Spanish
+- Download: https://bimcv.cipf.es/bimcv-projects/padchest/<br>
+- Paper: https://arxiv.org/abs/1901.07441
+
+
 <br>
 
 # Pneumonia Datasets
@@ -156,6 +164,13 @@ I've listed the approx. number of pneumonia images in each.<br>
 - 2,435 total images
 - Download: https://openi.nlm.nih.gov/faq#collection<br>
 - Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5009925/
+
+### PadChest dataset
+- 5,778 pneumonia study counts (Does "study counts" refer to the number of images or number of examinations?)
+- 160,000 total images
+- Contains radiographic reports in Spanish
+- Download: https://bimcv.cipf.es/bimcv-projects/padchest/<br>
+- Paper: https://arxiv.org/abs/1901.07441
 
 
 <br>
