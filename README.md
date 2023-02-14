@@ -84,7 +84,7 @@ In some cases the entire dataset is dedicated to one disease. In other cases the
 
 
 ### PadChest dataset
-- 176 TB study counts (Does "study counts" refer to the number of images or number of examinations?)
+- 176 TB study counts
 - 160,000 total images
 - Contains radiographic reports in Spanish
 - Download: https://bimcv.cipf.es/bimcv-projects/padchest/<br>
@@ -166,7 +166,7 @@ I've listed the approx. number of pneumonia images in each.<br>
 - Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5009925/
 
 ### PadChest dataset
-- 5,778 pneumonia study counts (Does "study counts" refer to the number of images or number of examinations?)
+- 5,778 pneumonia study counts
 - 160,000 total images
 - Contains radiographic reports in Spanish
 - Download: https://bimcv.cipf.es/bimcv-projects/padchest/<br>
