@@ -1,9 +1,9 @@
 # List of TB and Pneumonia Chest X-ray Datasets
 A list of publicly available Tuberculosis (TB) and Pneumonia chest x-ray datasets.
 
-Last Updated: 13 Feb 2023
+Last Updated: 14 Feb 2023
 
-[ Repo Under Construction ]
+
 
 <br>
 <img src="https://github.com/vbookshelf/List-of-TB-and-Pneumonia-Datasets/blob/main/images/h0186.png" width="300"></img>
@@ -155,3 +155,14 @@ I've listed the approx. number of pneumonia images in each.<br>
 - Download: https://openi.nlm.nih.gov/faq#collection<br>
 - Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5009925/
 
+
+<br>
+
+# Helpful Resources
+
+Short video summaries of the top 10 solutions of the Kaggle COVID-19 AI Detection Challenge (2021).<br>
+Includes links to the solution writeups and code.<br>
+Many of the winning models were pre-trained on the datasets listed above.<br>
+https://www.rsna.org/education/ai-resources-and-training/ai-image-challenge/covid-19-al-detection-challenge-2021
+
+<br>
