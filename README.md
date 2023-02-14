@@ -166,6 +166,8 @@ Includes links to the solution writeups and code.<br>
 Many of the winning models were pre-trained on the datasets listed above.<br>
 https://www.rsna.org/education/ai-resources-and-training/ai-image-challenge/covid-19-al-detection-challenge-2021
 
+<br>
+
 ### ChatGPT - A virtual domain specialist
 https://openai.com/blog/chatgpt/<br>
 Do you sometimes wish that you could consult with a radiologist when building your models? I'm finding that ChatGPT is the next best thing. In fact ChatGPT has passed the three-part medical exam that doctors take in order to practice medecine in the US.<br>
