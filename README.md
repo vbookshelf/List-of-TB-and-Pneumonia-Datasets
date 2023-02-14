@@ -170,7 +170,7 @@ https://www.rsna.org/education/ai-resources-and-training/ai-image-challenge/covi
 
 ### ChatGPT - A virtual domain specialist
 https://openai.com/blog/chatgpt/<br>
-Do you sometimes wish that you could consult with a radiologist when building your models? I'm finding that ChatGPT is the next best thing. In fact ChatGPT has passed the three-part medical exam that doctors take in order to practice medecine in the US.<br>
+Do you sometimes wish that you could consult with a radiologist when building your models? I'm finding that ChatGPT is the next best thing. In fact ChatGPT has passed the three-part medical exam that doctors take in order to practice medicine in the US.<br>
 
 This is the answer I got when I asked, "How do radiologists differentiate between TB and Pneumonia?"
 
