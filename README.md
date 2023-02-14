@@ -76,7 +76,6 @@ In some cases the entire dataset is dedicated to one disease. In other cases the
 - Paper: https://ieeexplore.ieee.org/document/9224622
 
 ### NIAID TB dataset
-- I did not access this data.
 - This dataset is mentioned under the "Contribution" section here: https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset
 - There are reportedly 3500 TB images in this dataset. 
 - A data request form needs to be submitted in order to access the data.
