@@ -160,7 +160,8 @@ I've listed the approx. number of pneumonia images in each.<br>
 
 # Helpful Resources
 
-Short video summaries of the top 10 solutions of the Kaggle COVID-19 AI Detection Challenge (2021).<br>
+### Kaggle COVID-19 Comp solutions
+This is a link to short video summaries of the top 10 solutions of the Kaggle COVID-19 AI Detection Challenge (2021).<br>
 Includes links to the solution writeups and code.<br>
 Many of the winning models were pre-trained on the datasets listed above.<br>
 https://www.rsna.org/education/ai-resources-and-training/ai-image-challenge/covid-19-al-detection-challenge-2021
