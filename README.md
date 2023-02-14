@@ -96,6 +96,8 @@ In some cases the entire dataset is dedicated to one disease. In other cases the
 - Paper: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 
 ### RSNA Pneumonia Detection Challenge
+- 6,012 pneumonia train images (labeled as opacity)
+- 26,684 total train images
 - Includes bounding boxes
 - The raw images were sourced from the NIH ChestX-ray8 dataset.
 - Download from Kaggle: https://www.kaggle.com/competitions/rsna-pneumonia-detection-challenge/data<br>
