@@ -143,9 +143,11 @@ I've listed the approx. number of pneumonia images in each.<br>
 - Download: https://physionet.org/content/mimic-cxr/2.0.0/<br>
 - Paper: https://arxiv.org/pdf/1901.07042.pdf
 
-### NIH ChestX-ray8 dataset
+### NIH ChestX-ray14 dataset
 - 1,062 pneumonia images (see Table 1 in the paper)
 - 112,1208 total images
+- This dataset expands on NIH ChestX-ray8 dataset by providing labels for six additional diseases.
+- Download from homepage: https://nihcc.app.box.com/v/ChestXray-NIHCC<br>
 - Download: https://www.kaggle.com/datasets/nih-chest-xrays/data<br>
 - Paper: https://arxiv.org/abs/1705.02315
 
