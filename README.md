@@ -95,9 +95,9 @@ In some cases the entire dataset is dedicated to one disease. In other cases the
 # Pneumonia Datasets
 
 ### Chest X-Ray Images (Pneumonia)
+- All x-ray images are of children (1-5 years old)
 - 4,273 pneumonia images
 - 5,856 total images
-- All x-rays are of children (1-5 years old)
 - Has labels for viral and bacterial pneumonia
 - Download: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia<br>
 - Paper: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
@@ -117,7 +117,8 @@ The datasets that follow are multi label datasets that contain pneumonia images.
 I've listed the approx. number of pneumonia images in each.<br>
 
 ### VinDr-PCXR dataset
-- 481 pneumonia pediatric images (children under 10 years old)
+- All x-ray images are of children (under 10 years old)
+- 481 pneumonia pediatric images
 - 6 pleuro-pneumonia pediatric images
 - 9,125 total images
 - Includes bounding boxes
