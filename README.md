@@ -1,7 +1,7 @@
 # List of TB and Pneumonia Chest X-ray Datasets
 A list of publicly available Tuberculosis (TB) and Pneumonia chest x-ray datasets.
 
-Last Updated: 14 Feb 2023
+Last Updated: 3 March 2023
 
 
 
@@ -172,6 +172,12 @@ I've listed the approx. number of pneumonia images in each.<br>
 - Download: https://bimcv.cipf.es/bimcv-projects/padchest/<br>
 - Paper: https://arxiv.org/abs/1901.07441
 
+### Large Dataset of OCT and Chest X-Ray Images
+- All x-ray images are of children
+- 3,883 total pneumonia images (2,538 bacterial pneumonia and 1,345 viral pneumonia)
+- 1,349 normal images
+- Download: https://data.mendeley.com/datasets/rscbjbr9sj<br>
+- Paper: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 
 <br>
 
