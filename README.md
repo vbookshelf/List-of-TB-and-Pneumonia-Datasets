@@ -50,7 +50,8 @@ In some cases the entire dataset is dedicated to one disease. In other cases the
 - Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4229306/
 
 ### VinDr-PCXR dataset
-- 15 TB pediatric images (children under 10 years old)
+- All x-ray images are of children (under 10 years old)
+- 15 TB pediatric images
 - 9,125 total images
 - Includes bounding boxes
 - Download: https://physionet.org/content/vindr-pcxr/1.0.0/<br>
