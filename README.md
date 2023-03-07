@@ -62,7 +62,7 @@ In some cases the entire dataset is dedicated to one disease. In other cases the
 - 18,000 total images
 - Original dataset has TB global labels as explained here: https://vindr.ai/datasets/cxr
 - Includes bounding boxes
-- A modified version of this dataset was used for a Kaggle competition. 
+- A modified version of this dataset was used for a Kaggle competition: https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detection/overview
 - No TB labels are in the competition dataset: https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detection/data
 - Need to be a crentialed user and undergo training before accessing the original dataset
 - Download: https://physionet.org/content/vindr-cxr/1.0.0/<br>
