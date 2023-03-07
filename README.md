@@ -131,7 +131,7 @@ I've listed the approx. number of pneumonia images in each.<br>
 - 18,000 total images
 - Original dataset has Pneumonia global labels as explained here: https://vindr.ai/datasets/cxr
 - Includes bounding boxes
-- A modified version of this dataset was used for a Kaggle competition. 
+- A modified version of this dataset was used for a Kaggle competition: https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detection/overview
 - No Pneumonia labels are in the competition dataset: https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detection/data
 - Need to be a crentialed user and undergo training in order to access the original dataset
 - Download: https://physionet.org/content/vindr-cxr/1.0.0/<br>
