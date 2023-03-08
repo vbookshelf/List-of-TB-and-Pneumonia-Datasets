@@ -109,7 +109,7 @@ In some cases the entire dataset is dedicated to one disease. In other cases the
 ### Child Chest X-Ray Images (Version 3)
 - All x-ray images are of children
 - 4,273 total pneumonia images
-- 1,583 normal images
+- 5,856 total images
 - Version 3 does not have labels for bacterial and viral pneumonia.
 - Download: https://data.mendeley.com/datasets/rscbjbr9sj<br>
 - Paper: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
