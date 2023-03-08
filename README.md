@@ -178,6 +178,7 @@ I've listed the approx. number of pneumonia images in each.<br>
 - All x-ray images are of children
 - 3,883 total pneumonia images (2,538 bacterial pneumonia and 1,345 viral pneumonia)
 - 1,349 normal images
+- Dataset on Kaggle: https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray<br>
 - Download: https://data.mendeley.com/datasets/rscbjbr9sj<br>
 - Paper: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 
