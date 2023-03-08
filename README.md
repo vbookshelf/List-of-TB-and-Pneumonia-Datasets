@@ -97,6 +97,22 @@ In some cases the entire dataset is dedicated to one disease. In other cases the
 
 # Pneumonia Datasets
 
+### Child Chest X-Ray Images (Version 2)
+- All x-ray images are of children (1-5 years old)
+- 4,273 pneumonia images
+- 5,856 total images
+- This version has labels for viral and bacterial pneumonia
+- paultimothymooney dataset version 2 on Kaggle: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia<br>
+- andrewmvd dataset version 2 on Kaggle: https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray<br>
+- Paper: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
+
+### Child Chest X-Ray Images (Version 3)
+- All x-ray images are of children
+- 4,273 total pneumonia images
+- 1,583 normal images
+- Version 3 does not have labels for bacterial and viral pneumonia.
+- Download: https://data.mendeley.com/datasets/rscbjbr9sj<br>
+- Paper: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 
 ### RSNA Pneumonia Detection Challenge
 - 6,012 pneumonia train images (labeled as opacity)
