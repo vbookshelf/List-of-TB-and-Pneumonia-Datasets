@@ -95,13 +95,6 @@ In some cases the entire dataset is dedicated to one disease. In other cases the
 
 # Pneumonia Datasets
 
-### Chest X-Ray Images (Pneumonia)
-- All x-ray images are of children (1-5 years old)
-- 4,273 pneumonia images
-- 5,856 total images
-- Has labels for viral and bacterial pneumonia
-- Download: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia<br>
-- Paper: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 
 ### RSNA Pneumonia Detection Challenge
 - 6,012 pneumonia train images (labeled as opacity)
@@ -174,12 +167,13 @@ I've listed the approx. number of pneumonia images in each.<br>
 - Download: https://bimcv.cipf.es/bimcv-projects/padchest/<br>
 - Paper: https://arxiv.org/abs/1901.07441
 
-### Large Dataset of OCT and Chest X-Ray Images
+### Large Dataset of OCT and Chest X-Ray Images (Version 3)
 - All x-ray images are of children
 - 3,883 total pneumonia images (2,538 bacterial pneumonia and 1,345 viral pneumonia)
 - 1,349 normal images
-- Dataset on Kaggle: https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray<br>
-- Download: https://data.mendeley.com/datasets/rscbjbr9sj<br>
+- paultimothymooney dataset version 2 on Kaggle: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia<br>
+- andrewmvd version 2 on Kaggle: https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray<br>
+- Download version 3: https://data.mendeley.com/datasets/rscbjbr9sj<br>
 - Paper: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 
 <br>
