@@ -101,7 +101,7 @@ In some cases the entire dataset is dedicated to one disease. In other cases the
 - All x-ray images are of children (1-5 years old)
 - 4,273 pneumonia images
 - 5,856 total images
-- This version has labels for viral and bacterial pneumonia included in the file names
+- Has labels for viral and bacterial pneumonia included in the file names
 - paultimothymooney dataset version 2 on Kaggle: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia<br>
 - andrewmvd dataset version 2 on Kaggle: https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray<br>
 - Paper: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
@@ -110,7 +110,7 @@ In some cases the entire dataset is dedicated to one disease. In other cases the
 - All x-ray images are of children
 - 4,273 total pneumonia images
 - 5,856 total images
-- Version 3 does not have labels for bacterial and viral pneumonia included in the file names
+- Has labels for bacterial and viral pneumonia included in the file names
 - Download: https://data.mendeley.com/datasets/rscbjbr9sj<br>
 - Paper: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 
