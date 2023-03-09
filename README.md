@@ -44,10 +44,8 @@ In some cases the entire dataset is dedicated to one disease. In other cases the
 
 ### DA and DB datasets
 - 102 TB images
-- 303 total images
-- DA and DB images are located in the folder named "extra" inside the original TBX11K dataset
+- 279 total images
 - Filenames starting with "n" are TB negative and filenames starting with "p" are TB positive
-- Download: https://www.kaggle.com/datasets/usmanshams/tbx-11<br>
 - Download: https://sourceforge.net/projects/tbxpredict/files/data/<br>
 - Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4229306/
 
