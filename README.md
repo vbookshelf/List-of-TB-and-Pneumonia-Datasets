@@ -32,7 +32,7 @@ In some cases the entire dataset is dedicated to one disease. In other cases the
 - 400 unlabeled TB test set images
 - 3300 total unlabeled test images
 - Includes bounding boxes
-- Download: https://www.kaggle.com/datasets/vbookshelf/tbx11k-simplified<br>
+- Download from Kaggle: https://www.kaggle.com/datasets/vbookshelf/tbx11k-simplified<br>
 - Paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Rethinking_Computer-Aided_Tuberculosis_Diagnosis_CVPR_2020_paper.pdf
 
 
@@ -74,7 +74,7 @@ In some cases the entire dataset is dedicated to one disease. In other cases the
 - 4,200 total images
 - All images have been sourced from other public datasets.
 - The experiments in the paper also used images sourced from the NIAID TB dataset
-- Download: https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset<br>
+- Download from Kaggle: https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset<br>
 - Paper: https://ieeexplore.ieee.org/document/9224622
 
 ### NIAID TB dataset
