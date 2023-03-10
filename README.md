@@ -40,7 +40,7 @@ In some cases the entire dataset is dedicated to one disease. In other cases the
 - 305 TB images
 - 305 total images
 - The original Belarus government dataset is no longer accessible.
-- The pre-processed images used in the paper can still be downloded.
+- The pre-processed images used in the paper can still be downloaded.
 - Info: https://github.com/frapa/tbcnn<br>
 - Download: https://github.com/frapa/tbcnn/tree/master/belarus<br>
 - Paper: https://www.nature.com/articles/s41598-019-42557-4
