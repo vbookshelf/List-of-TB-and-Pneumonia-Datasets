@@ -39,7 +39,7 @@ In some cases the entire dataset is dedicated to one disease. In other cases the
 ### Belarus dataset
 - 305 TB images
 - 305 total images
-- Download: https://github.com/frapa/tbcnn<br>
+- Download: https://github.com/frapa/tbcnn/tree/master/belarus<br>
 - Paper: https://www.nature.com/articles/s41598-019-42557-4
 
 ### DA and DB datasets
