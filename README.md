@@ -43,8 +43,8 @@ In some cases the entire dataset is dedicated to one disease. In other cases the
 - Paper: https://www.nature.com/articles/s41598-019-42557-4
 
 ### DA and DB datasets
-- 102 TB images
-- 279 total images
+- 125 TB images
+- 278 total images
 - Filenames starting with "n" are TB negative and filenames starting with "p" are TB positive
 - Download from Kaggle: https://www.kaggle.com/datasets/vbookshelf/da-and-db-tb-chest-x-ray-datasets<br>
 - Download: https://sourceforge.net/projects/tbxpredict/files/data/<br>
